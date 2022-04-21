@@ -40,7 +40,7 @@ body {
 }
 .card-image {
   background-color: #aa5cdb;
-  background-image: url("../images/image-header-mobile.jpg");
+  background-image: url("images/image-header-mobile.jpg");
   background-blend-mode: multiply;
   background-position: center;
   background-size: cover;
@@ -50,7 +50,7 @@ body {
 }
 @media screen and (min-width: 800px) {
   .card-image {
-    background-image: url("../images/image-header-desktop.jpg");
+    background-image: url("images/image-header-desktop.jpg");
   }
 }
 .card-msg {
